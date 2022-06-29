@@ -1,0 +1,9 @@
+#name age country city
+Sarah 18 England Manchester
+Tom 17 Germany Friburg
+tim 25 germany berlin
+Pierre 32 FRANCE Narbonne
+Mario 29 Italy Naples
+Serge 41 france Toulouse
+
+
