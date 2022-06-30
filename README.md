@@ -8,7 +8,7 @@ You are *expected* to:
 
 - **clone** or download this github repo locally
 - **read** this documentation
-- **solve** the two tasks, using the programming language of your choice (among *Python*, *C++*, *Fortran*)
+- **solve** the two tasks, using the programming language of your choice (among *Python*, *Fortran*)
 - **comment** on your work and answer questions
 
 Your work will be projected overhead for you and the whole jury to see. You can address comprehension questions to the jury anytime.
